@@ -1,4 +1,7 @@
-print("Hello Git and Github")
+# Question 1 Answer
 
-print("I'm using Github")
+x = 42
 
+y = 55
+
+# Finished all questions
